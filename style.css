@@ -1,0 +1,22 @@
+/* Existing CSS styles */
+
+#profile-info button {
+    margin-top: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+#followers {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #666;
+}
+
+#follower-count {
+    font-weight: bold;
+}
+
+/* Existing CSS styles */
